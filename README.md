@@ -4,7 +4,7 @@
 ![Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLannaTinoco&show_icons=true&theme=radical)
 
 ### About me
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=giusfds)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=PLannaTinoco)
 
 
 
