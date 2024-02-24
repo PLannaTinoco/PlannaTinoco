@@ -4,7 +4,8 @@
 ![Tinoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLannaTinoco&show_icons=true&theme=radical)
 
 ### About me
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=PLannaTinoco&hide_progress=true](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=PLannaTinoco))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langslocale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=giusfds)
+
 
 
 Currently residing in Belo Horizonte, Minas Gerais, Brazil, I am in my third semester pursuing a degree in Computer Science at PUC Minas. I possess a foundational understanding of programming languages such as C, C++, Java, and have experience in both Front-end and Back-end development.
